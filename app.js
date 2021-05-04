@@ -8,6 +8,7 @@ const port = process.env.PORT || 3000;
 app.use(fileUpload());
 
 app.post("/upload", async (req, res) => {
+  
   const { file } = req.files;
 
   const result = await faceApiService.detect(file.data, file.name);
