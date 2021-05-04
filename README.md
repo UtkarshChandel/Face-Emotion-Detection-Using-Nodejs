@@ -59,7 +59,7 @@ What things you need to install the software.
 
 1. Nodejs (>=ver 12)  [<img style="margin-top:10px" width=30px height=30px src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png">](https://nodejs.org/en/)
 
-2. node-gyp && node-pre-gyp - Node.js native addon build tool
+2. node-gyp && node-pre-gyp - Node.js native addon build tool <br></br>
    ->``` run npm install node-gyp node-pre-gyp -g```
 
 
