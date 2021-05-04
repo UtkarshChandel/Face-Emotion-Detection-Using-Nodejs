@@ -1,81 +1,38 @@
-# Face-Emotion-Detection-Using-Nodejs
+# Face-Emotion-Detection-Using-Nodejs  
 
-  
-
-  
-
-  
-
-## Table of Contents
-
-  
-
-  
+## Table of Contents  
 
 -  [About](#about)
-
-  
-
   
 
 -  [Getting Started](#getting_started)
 
   
 
-  
-
 -  [Usage](#usage)
-
-  
-
-  
-
   
 
 ## About <a name = "about"></a>
 
   
 
-  
-
-  
-
 Face and Emotion Detection Node.js Using tensorflow/tfjs, face-api & canvas
 
-  
-
-  
-
-  
 
 ## Getting Started <a name = "getting_started"></a>
 
-  
 
-  
-
-  
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
   
 
-  
-
-  
-
 ### Prerequisites
 
-  
-
-  
+ 
 
 What things you need to install the software.
 
-  
-  
-  
-  
 
 1. Nodejs (>=ver 12) [<img style="margin-top:10px" width=30px height=30px src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png">](https://nodejs.org/en/)
 
@@ -85,12 +42,6 @@ What things you need to install the software.
 
 ->``` run npm install node-gyp node-pre-gyp -g```
 
-  
-  
-
-  
-
-  
 
 ### Installing
 
@@ -98,24 +49,11 @@ What things you need to install the software.
 
 <summary><b>Installation Steps:-</b></summary>
 
-  
-
-  
 
 1. Install the dependencies :
 
-  
-
-  
-
-```sh
-
-  
-
+```sh 
 $ npm install
-
-  
-
 ```
 
   
@@ -133,13 +71,7 @@ $ npm install
 1. Run the following command in the root directory
 
 ```sh
-
-  
-
 $ npm start
-
-  
-
 ```
 
 3. Open POSTMAN and ping ` POST | http://localhost:3000/upload` with following config:
