@@ -81,7 +81,7 @@ What things you need to install the software.
 
   
 
-2. node-gyp && node-pre-gyp - Node.js native addon build tool  [<img style="margin-top:10px" width=30px height=30px src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOIAAADfCAMAAADcKv+WAAAASFBMVEXLODf////or6/JKSjLNjXKMTDZd3bekJDJLizIISD03NzJKyrjoaDx0NDPS0r78PDmqqrdjIvHHBrGCATRVlXNPTzy1tbVZ2ZMcXmRAAABZklEQVR4nO3PUVbCQBBFwQATFBUDBHT/O/UT/iYcwmHyrLuAfl3dKr7u1Q88v39C3K8jOwxX4vG0SWz8uBLf3rvEdogBISaEmBBiQogJISaEmBBiQogJISaEmBBiQogJISaEmBBiQvcSS99W8xPLedtWZXbi59eqrUrdiIj4+hAREdsIERGxjRAREdsIERGxjRAREdsIERGxjRAREdsIERHxsYYJLZu4H3fVLgsn7qpT5RsRERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER8bF+2iWW83aWfvv61GXKobrwXmJX+nmqL02bmnDnXuICQ0wIMSHEhBATQkwIMSHEhBATQkwIMSHEhBATQkwIMSHEhBATuiUeT5vExhvifh3ZYbgSw0NM6A8BGqNKRN9lgwAAAABJRU5ErkJggg==">](https://www.npmjs.com/package/node-gyp) <br></br>
+2. node-gyp && node-pre-gyp - Node.js native addon build tool  [<img style="margin-top:10px" width=30px height=30px src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png">](https://www.npmjs.com/package/node-gyp) <br></br>
 
 ->``` run npm install node-gyp node-pre-gyp -g```
 
