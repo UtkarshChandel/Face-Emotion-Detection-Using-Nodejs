@@ -56,14 +56,10 @@ What things you need to install the software and how to install them.
     ```
 
 2. Open POSTMAN and ping  ` POST | http://localhost:3000/upload` with following config:
-<div align="center">
+
 ![Image of Postman](https://i.ibb.co/CPnhsM8/face-detection-nodejs-image-postman.png)
-</div>
+
 </details>
-
-  
-
-End with an example of getting some data out of the system or using it for a little demo.
 
   
 
