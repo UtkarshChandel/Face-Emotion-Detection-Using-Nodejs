@@ -11,7 +11,7 @@
 
 -  [Usage](#usage)
 
--  [Contributing](../CONTRIBUTING.md)
+
 
   
 
@@ -47,24 +47,19 @@ What things you need to install the software and how to install them.
   
 
 ### Installing
-<details><summary><b>Installation Steps:-</b></summary>
+<summary><b>Installation Steps:-</b></summary>
 
 1. Install the dependencies :
 
     ```sh
     $ npm install
-    ```
-
-2. Open POSTMAN and ping  ` POST | http://localhost:3000/upload` with following config:
-
-![Image of Postman](https://i.ibb.co/CPnhsM8/face-detection-nodejs-image-postman.png)
-
-</details>
-
-  
+    ```  
 
 ## Usage <a name = "usage"></a>
+<summary><b></b></summary>
 
   
 
-Add notes about how to use the system.
+1. Open POSTMAN and ping  ` POST | http://localhost:3000/upload` with following config:
+
+![Image of Postman](https://i.ibb.co/CPnhsM8/face-detection-nodejs-image-postman.png)
