@@ -64,7 +64,7 @@ $ npm install
 $ npm start
 ```
 
-3. Open POSTMAN and ping ` POST | http://localhost:3000/upload` with following config:
+2. Open POSTMAN and ping ` POST | http://localhost:3000/upload` with following config:
 
   
   
