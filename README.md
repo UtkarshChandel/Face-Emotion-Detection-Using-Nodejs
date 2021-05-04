@@ -45,11 +45,6 @@ What things you need to install the software.
 
 ### Installing
 
-  
-
-<summary><b>Installation Steps:-</b></summary>
-
-
 1. Install the dependencies :
 
 ```sh 
@@ -62,11 +57,6 @@ $ npm install
 
 ## Usage <a name = "usage"></a>
 
-  
-
-<summary><b></b></summary>
-
-  
 
 1. Run the following command in the root directory
 
